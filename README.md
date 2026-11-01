@@ -17,7 +17,7 @@
 ## Cài đặt bằng Downloader (TV)
 
 1. Mở ứng dụng **Downloader** trên Android TV / Fire TV.
-2. Nhập mã: **(sẽ cập nhật)**
+2. Nhập mã: **4269259**
 3. Tải APK và cài đặt (cho phép "Cài ứng dụng không rõ nguồn gốc" cho Downloader nếu TV hỏi).
 
 Hoặc tải APK trực tiếp từ mục **Releases** của repo này.
